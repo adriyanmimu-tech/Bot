@@ -1,0 +1,6 @@
+{
+  "name": "NoTrack Studio — Unlimited Private AI Chat",
+  "description": "A zero-login, privacy-first AI chat workspace with a 1,000,000+ token context window, multimodal document & image analysis, live HTML sandbox preview, voice interaction, and one-click export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
